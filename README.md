@@ -4,6 +4,7 @@ Core contracts for Tapir Protocol, a DeFi depeg protection marketplace. The prot
 
 - Docs site: <https://docs.tapir.money>
 - Website: <https://tapir.money>
+- License: [Business Source License 1.1 — terms and file-level exceptions](LICENSES/README.md)
 
 ## How it works
 
@@ -206,7 +207,13 @@ See [SECURITY.md](SECURITY.md) for the vulnerability disclosure process. Audit r
 
 ## License
 
-Business Source License 1.1 (BUSL-1.1). Licensor: Tapir Labs. The Licensed Work converts to GPL-2.0-or-later on the Change Date or the fourth anniversary of the first public distribution of a version, whichever comes first. See [LICENSE](LICENSE).
+Tapir Core is licensed under **Business Source License 1.1 (BUSL-1.1)** by Tapir Labs.
+The license permits copying, modification, redistribution and non-production use,
+subject to its terms. **Additional Use Grant: None**; production use requires a
+commercial license from the licensor until the applicable change to GPL-2.0-or-later.
+The Change Date is **2029-01-01**, or the fourth anniversary of the first public
+distribution of a specific version if earlier. BUSL-1.1 is not an open-source license.
 
-File-level MIT/GPL licenses and third-party rights are described in
-[THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md), with license texts in `LICENSES/`.
+See the [license overview](LICENSES/README.md) and the full, controlling [LICENSE](LICENSE)
+(also included as [LICENSES/BUSL-1.1.txt](LICENSES/BUSL-1.1.txt)). File-level MIT/GPL
+licenses and third-party rights are described in [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md).

@@ -1,6 +1,8 @@
 # Third-party and file-level licenses
 
-The root [BUSL-1.1 license](LICENSE) is the default license for Tapir's work. Files
+The root [BUSL-1.1 license](LICENSE) is the default license for Tapir's work. The
+[license overview](LICENSES/README.md) explains its parameters and links all license
+texts, including the [BUSL-1.1 copy](LICENSES/BUSL-1.1.txt) in `LICENSES/`. Files
 carrying a different SPDX identifier retain that license; the BUSL notice does not
 relicense them. Audit reports and other external publications retain their publishers'
 rights. The Quantstamp report is linked to its publisher and is not redistributed here.
