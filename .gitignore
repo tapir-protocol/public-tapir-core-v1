@@ -1,0 +1,30 @@
+node_modules
+.env
+.env.*
+!.env.example
+.DS_Store
+
+# VS Code settings (user-specific)
+.vscode/
+
+# Hardhat files
+/cache
+/artifacts
+gasReporterOutput.json
+
+# TypeChain files
+/typechain
+/typechain-types
+
+# solidity-coverage files
+/coverage
+/coverage.json
+
+# Hardhat Ignition default folder for deployments against a local node
+ignition/deployments/chain-31337
+
+# Misc
+TODO.md
+
+# Local test deployments
+*localhost*
